@@ -11,7 +11,7 @@
 
 总的来说，我们希望通过创建一个AI开发互联的友好世界，让所有的软件和应用程序都可以通过AI助理进行互联，人们可以通过对话，让AI助理帮助他们完成工作和生活任务。这将是一个充满可能性的新世界，我们期待着它的到来。
 
-https://excalidraw.com/#json=WRhU7fmG1wufiBPc3qegV,2MtjZ5KYXiilK-gvAHFahA
+
 
 
 ## 什么是ChatJavis
